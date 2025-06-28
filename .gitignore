@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+.env
+.env.*
+
+# Output files
+vc_match_results.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Puppeteer
+.chromium/
+
+# Misc
+*.csv~
